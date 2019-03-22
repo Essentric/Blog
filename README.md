@@ -1,3 +1,3 @@
 # Essentric
 
-## [Hello World](blob/master/articles/others/hello-world)
+## [Hello World](/articles/others/hello-world)
