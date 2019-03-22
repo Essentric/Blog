@@ -1,3 +1,3 @@
 # Essentric
 
-## [Hello World](/articles/others/hello-world)
+## [Hello World](/articles/others/hello-world.md)
