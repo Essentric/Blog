@@ -1,5 +1,3 @@
 # Essentric
 
-## 其它
-
-### [Hello World](./articles/others/hello-world)
+## [Hello World](blob/master/articles/others/hello-world)
