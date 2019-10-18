@@ -1,9 +1,9 @@
 
-之前撸了一个 [copy 指令](https://juejin.im/post/5d7ee31e518825664525dfe5)，这次再撸一个拖拽指令。。
+之前撸了一个 [copy 指令](./Vue自定义指令--Copy.md)，这次再撸一个拖拽指令。。
 
 具体是个什么蛇皮玩意儿呢，大概就像介样：
 
-![gif](https://user-gold-cdn.xitu.io/2019/9/30/16d80cf51ee30711?w=1516&h=704&f=gif&s=753548)
+![gif](/assets/img/drag_01.gif)
 emmm。。没错，看起来就是如此的鸡肋，但是莫得办法，大佬喜欢啊。
 
 由于我们项目中用的是 `element-ui` ，所有这个指令只针对 `element-ui`的对话框组件哈，如果你们用的别的`ui`库也有这个需求的，涂涂改改应该也能用。。
@@ -115,7 +115,7 @@ export default vDrap;
 
 这里计算边界值的方法有多种，大家可以去尝试自己的想法。然后我粗略的画了一个图，帮助理解，虽然感觉只有我自己看得懂。哈哈。。。
 
-![pic](https://user-gold-cdn.xitu.io/2019/9/30/16d8140b77c1377f?w=1549&h=710&f=png&s=56241)
+![pic](/assets/img/drag_02.png)
 下面用代码实现边界判断就 `ok` 了
 
 ``` Javascript
