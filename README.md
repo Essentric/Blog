@@ -1,5 +1,9 @@
 # Essentric
 
+## JavaScript
+
+### [值传递还是引用传递](/articles/javascript/参数传递方式.md)
+
 ## Vue
 
 ### [从一个List组件搞懂Vue插槽](/articles/vue/从一个List组件搞懂Vue插槽.md)
